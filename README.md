@@ -19,7 +19,7 @@ Fila 1: Título "Bienvenidos" en Morado Oscuro y tamaño grande.
 
 Fila 2: Subtítulo "login desarrollado en flutter" en color gris.
 
-Fila 3: Una imagen desde la red usando este enlace: https://raw.githubusercontent.com/Eliseo128/Imagenes-para-flutter-6to-I-fecha-11-feb-2026/refs/heads/main/bienvenida.png.
+Fila 3: Una imagen desde la red usando este enlace: https://github.com/Ricardo-SM08/imagenes-para-flutter-6-J-11-febrero-2026/blob/main/empleado.png
 
 Fila 4: Un botón rectangular con bordes suaves que diga "Login". Al dar clic navega a la pantalla de login.
 
