@@ -12,11 +12,11 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Login Interactivo',
+      title: 'Login UI',
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.white,
+        fontFamily: 'Roboto', // Estilo limpio como en el repo de backslash
       ),
-      // Manejo de rutas nombradas
       initialRoute: '/',
       routes: {
         '/': (context) => const Bienvenidos(),
